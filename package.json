@@ -25,7 +25,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build:css": "tailwindcss -i ./src/index.css -o ./src/output.css --minify",
+    "build:css": "tailwindcss -i ./src/style/input.css -o ./src/style/style.css --minify",
     "prebuild": "npm run build:css"
   },
   "eslintConfig": {
