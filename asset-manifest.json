@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CRUD-App/static/css/main.3cfc3654.css",
-    "main.js": "/CRUD-App/static/js/main.7419242b.js",
-    "index.html": "/CRUD-App/index.html",
-    "main.3cfc3654.css.map": "/CRUD-App/static/css/main.3cfc3654.css.map",
-    "main.7419242b.js.map": "/CRUD-App/static/js/main.7419242b.js.map"
+    "main.css": "./static/css/main.3cfc3654.css",
+    "main.js": "./static/js/main.7419242b.js",
+    "index.html": "./index.html",
+    "main.3cfc3654.css.map": "./static/css/main.3cfc3654.css.map",
+    "main.7419242b.js.map": "./static/js/main.7419242b.js.map"
   },
   "entrypoints": [
     "static/css/main.3cfc3654.css",
